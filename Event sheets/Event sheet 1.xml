@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <event-block sid="256831583534392">
+            <conditions>
+                <condition id="0" name="On click" sid="894855991066487" type="Mouse">
+                    <param id="0" name="Mouse button">0</param>
+                    <param id="1" name="Click type">0</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="308514647127945" type="Sprite2">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="556499643164175" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="147845302468926" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="858238780504382" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="561093917976684" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="620395292204943" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="873296196262728" type="Sprite2">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="135932080005116" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="846036252958596" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="759682129908497" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="675088992597581" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="961989641376117" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="614306009289873">
+            <conditions>
+                <condition id="0" name="On click" sid="809100769748691" type="Mouse">
+                    <param id="0" name="Mouse button">2</param>
+                    <param id="1" name="Click type">0</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="208161289511737" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="948946935673943" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="379625912978464" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="876673846490691" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="348413117642673" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="103243105832830" type="Sprite6">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="299574516936021" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="968220383236879" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="148562195493461" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="346575892999946" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="830359425590422" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="324736914519060" type="Sprite6">
+                    <param id="0" name="State">1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="797533234503225">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="810465535641826" type="Keyboard">
+                    <param id="0" name="Key">87</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="379819956838064" type="Sprite3">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="630162594627843" type="Sprite3">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="461127770009621" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="464160989375977" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="450286899248567" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="971064888920446" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="992104680834411" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="480500792969159" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="125282491617637" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="847501030594842" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="517348427065363" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="805057884958244" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="886812391975399">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="633374238683607" type="Keyboard">
+                    <param id="0" name="Key">83</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="140023432564965" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="515527451421311" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="853887660853543" type="Sprite">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="644965047806362" type="Sprite">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="779463401276815" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="953840369509940" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="773061736427826" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="679589757883996" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="490559142190210" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="226472516489640" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="729178069491880" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="802382688320660" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="774422923325892">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="456649999929506" type="Keyboard">
+                    <param id="0" name="Key">65</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="986275408443252" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="410955372737348" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="269596175434039" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="844744107679369" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="172801496535390" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="519583049805994" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="518377188612463" type="Sprite4">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="386630342165230" type="Sprite4">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="186828753136880" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="929497449765290" type="Sprite5">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="496695776986693" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="148568246120546" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="104056696080815">
+            <conditions>
+                <condition id="0" name="On key pressed" sid="934929756099442" type="Keyboard">
+                    <param id="0" name="Key">68</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="907568479304425" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="155020298733832" type="Sprite3">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="873688079383093" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="603136492254614" type="Sprite">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="741670678518136" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="308114178646207" type="Sprite2">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="204116243299857" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="346618228714050" type="Sprite4">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="299535649116107" type="Sprite5">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="301252835829063" type="Sprite5">
+                    <param id="0" name="State">1</param>
+                </action>
+                <action behavior="ScrollTo" id="1" name="Set enabled" sid="179081903583034" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+                <action behavior="8Direction" id="8" name="Set enabled" sid="489555136073266" type="Sprite6">
+                    <param id="0" name="State">0</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
